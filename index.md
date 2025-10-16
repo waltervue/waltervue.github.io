@@ -1,5 +1,4 @@
-<p align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Walter's%20Homepage&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Walter's%20Homepage&fontSize=50" align="center" />
 
 My name is Walter Vue.  I'm a returning student who has decided to explore the IT field with specialization in Data Analytics.  I'm a 36 year old father of 3 with 11 years of work experience in Quality Assurance.  One of my core values is appreciating family and friends.  A few of my interests are sports such as Football and Volleyball, gaming, and being a car enthusiast.  
 
