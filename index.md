@@ -9,3 +9,7 @@ A few of my personal goals in life are to create a stable environment for my kid
 My educational goal is, simply, to graduate from the Data Analytics program and learn a new profession.  Although continuing with more education would be preferential, focusing on creating a good work/home/school life is my main purpose.
 
 My professional goal is to find a career that is related to Data Analytics, preferably with the company i currently work with.  If that role is not one that is supported, I'd be willing to start a new career.  
+
+
+
+- [Walter's Resume](link here)
