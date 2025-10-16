@@ -12,6 +12,6 @@ My professional goal is to find a career that is related to Data Analytics, pref
 
 
 
-- [Walter's Resume](https://github.com/waltervue/waltervue.github.io/blob/main/Resume.pdf)
+- [Walter's Resume](https://github.com/waltervue/waltervue.github.io/blob/main/Resume.pdf?raw=true)
 
 - [IT Explorations Course](https://waltervue.github.io/IT-Explorations/)
